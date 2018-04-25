@@ -1,4 +1,4 @@
 # To-Do-List-iOS-App
 A To-Do list iOS App written in Swift
 
-<img src="https://gfycat.com/OrangeChubbyFritillarybutterfly" />
+<img src="https://thumbs.gfycat.com/OrangeChubbyFritillarybutterfly-size_restricted.gif" />
