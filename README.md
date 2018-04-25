@@ -12,4 +12,5 @@ A To-Do list iOS App written in Swift
 
 **Step 3:** run `open -a Xcode ToDoList.xcodeproj`
 
-##: Notes
+## : Notes: 
+
