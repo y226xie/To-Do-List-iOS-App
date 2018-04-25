@@ -10,5 +10,5 @@ A To-Do list iOS App written in Swift
 
 **Step 2:** cd to the cloned repo:
 
-**Step 3:** run open -a Xcode ToDoList.xcodeproj
+**Step 3:** run `open -a Xcode ToDoList.xcodeproj`
 
